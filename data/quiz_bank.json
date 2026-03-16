@@ -1,0 +1,765 @@
+[
+  {
+    "question": "The Railways Act, 1989 (Act No. 24 of 1989) received the assent of the President on:",
+    "options": ["1st July 1990", "3rd June 1989", "28th March 2008", "1st January 1990"],
+    "answer": "3rd June 1989",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "The Railways Act, 1989 received Presidential assent on 3rd June 1989. It came into force on 1st July 1990 vide notification S.O. 475(E) dated 12th June 1990."
+  },
+  {
+    "question": "The Railways Act, 1989 came into force on:",
+    "options": ["3rd June 1989", "1st July 1989", "1st July 1990", "26th January 1990"],
+    "answer": "1st July 1990",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Though assented on 3rd June 1989, the Act came into force on 1st July 1990 vide notification S.O. 475(E) dated 12th June 1990."
+  },
+  {
+    "question": "The Railways Act, 1989 replaced which earlier legislation?",
+    "options": ["Indian Railways Act, 1980", "Indian Railways Act, 1890", "Railways Act, 1950", "Railways (Regulation) Act, 1885"],
+    "answer": "Indian Railways Act, 1890",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 200 of the Railways Act, 1989 repeals the Indian Railways Act, 1890 (9 of 1890)."
+  },
+  {
+    "question": "Under the Railways Act 1989, 'demurrage' means:",
+    "options": ["Charge for carriage of goods", "Charge levied for detention of rolling stock after expiry of free time", "Fine for ticketless travel", "Charge for overloading of wagons"],
+    "answer": "Charge levied for detention of rolling stock after expiry of free time",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(11) defines 'demurrage' as the charge levied for the detention of any rolling stock after the expiry of free time, if any, allowed for such detention."
+  },
+  {
+    "question": "Under the Railways Act 1989, 'wharfage' means:",
+    "options": ["Charge levied on goods for not removing them from the railway after expiry of free time", "Charge for storage of goods in railway warehouses", "Penalty for overstaying at railway premises", "Fee for using railway wharfs"],
+    "answer": "Charge levied on goods for not removing them from the railway after expiry of free time",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(41) defines 'wharfage' as the charge levied on goods for not removing them from the railway after the expiry of the free time for such removal."
+  },
+  {
+    "question": "Under the Railways Act 1989, a 'lump sum rate' means:",
+    "options": ["Rate fixed for a class of commodity", "Rate mutually agreed between railway administration and a consignor", "Special reduced rate for specific commodity between specified stations", "Rate fixed by the Railway Rates Tribunal"],
+    "answer": "Rate mutually agreed between railway administration and a consignor",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(24) defines 'lump sum rate' as the rate mutually agreed upon between a railway administration and a consignor for the carriage of goods and for any service in relation to such carriage."
+  },
+  {
+    "question": "Under Section 2(14), 'fare' means:",
+    "options": ["Charge levied for the carriage of goods", "Charge levied for the carriage of passengers", "Any charge including freight and demurrage", "Charge fixed by the Railway Rates Tribunal"],
+    "answer": "Charge levied for the carriage of passengers",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(14) specifically defines 'fare' as the charge levied for the carriage of passengers — distinguishing it from 'freight' which applies to goods."
+  },
+  {
+    "question": "Under the Railways Act 1989, 'rolling stock' includes:",
+    "options": ["Only locomotives and carriages", "Locomotives, tenders, carriages, wagons, rail-cars, containers, trucks, trolleys and all vehicles moving on rails", "Only goods wagons and passenger coaches", "Locomotives, carriages and track maintenance vehicles"],
+    "answer": "Locomotives, tenders, carriages, wagons, rail-cars, containers, trucks, trolleys and all vehicles moving on rails",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(37) gives a comprehensive definition of rolling stock including all vehicles moving on rails."
+  },
+  {
+    "question": "The definition of 'railway land' was inserted into the Railways Act 1989 by:",
+    "options": ["Railways (Amendment) Act, 2008", "Railways (Amendment) Act, 2005", "Finance Act, 2017", "Railways (Amendment) Act, 1994"],
+    "answer": "Railways (Amendment) Act, 2005",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(32A) defining 'railway land' as any land in which a Government railway has any right, title or interest was inserted by the Railways (Amendment) Act, 2005 (Act 47 of 2005), w.e.f. 30-8-2006."
+  },
+  {
+    "question": "The definition of 'Board' (Railway Board) was inserted into the Railways Act 1989 by:",
+    "options": ["Railways (Amendment) Act, 2005", "Finance Act, 2017", "Railways (Amendment) Act, 2025", "Railways (Amendment) Act, 2008"],
+    "answer": "Railways (Amendment) Act, 2025",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(1B) defining 'Board' as the Railway Board constituted under section 2A was inserted by the Railways (Amendment) Act, 2025 (Act 9 of 2025), w.e.f. 20-8-2025."
+  },
+  {
+    "question": "The definition of 'officer authorised' was inserted into Section 2 of the Railways Act 1989 by:",
+    "options": ["Railways (Amendment) Act, 2003 (Act 56 of 2003)", "Railways (Second Amendment) Act, 2003 (Act 51 of 2003)", "Railways (Amendment) Act, 2005", "Finance Act, 2017"],
+    "answer": "Railways (Second Amendment) Act, 2003 (Act 51 of 2003)",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "Section 2(26A) defining 'officer authorised' was inserted by Act 51 of 2003, w.e.f. 1-7-2004. The officer authorised means an officer authorised by the Central Government under sub-section (2) of section 179."
+  },
+  {
+    "question": "Chapter IA dealing with 'Railway Board' was inserted into the Railways Act 1989 by which amendment?",
+    "options": ["Railways (Amendment) Act, 2005", "Railways (Amendment) Act, 2008", "Finance Act, 2017", "Railways (Amendment) Act, 2025"],
+    "answer": "Railways (Amendment) Act, 2025",
+    "chapter": "Chapter IA — Railway Board",
+    "explanation": "Chapter IA containing sections 2A and 2B on the Railway Board was inserted by the Railways (Amendment) Act, 2025 (Act 9 of 2025), w.e.f. 20-8-2025."
+  },
+  {
+    "question": "Under Section 2A, the Railway Board constituted under the Resolution of Government of India, PWD No. 256G of 18th February 1905 shall be deemed to be:",
+    "options": ["A new statutory body", "The Railway Board constituted under this Act", "A temporary body pending fresh constitution", "An advisory body to the Ministry of Railways"],
+    "answer": "The Railway Board constituted under this Act",
+    "chapter": "Chapter IA — Railway Board",
+    "explanation": "Section 2A(1) provides that the Railway Board constituted under the 1905 Resolution, with its composition as revised from time to time, shall be deemed to be the Railway Board constituted under the Railways Act, 1989."
+  },
+  {
+    "question": "Under Section 2B, communications from the Railway Board are binding if:",
+    "options": ["Approved by the Ministry of Railways", "In writing signed by the Secretary to the Board or any authorised person", "Published in the Official Gazette", "Approved by a majority of Board members in a meeting"],
+    "answer": "In writing signed by the Secretary to the Board or any authorised person",
+    "chapter": "Chapter IA — Railway Board",
+    "explanation": "Section 2B provides that communications shall be binding if in writing signed by the Secretary to the Board, or by any other person authorised by the Board to act in its behalf."
+  },
+  {
+    "question": "The Central Government may constitute Zonal Railways by:",
+    "options": ["Resolution of Parliament", "Notification in the Official Gazette", "Order of the Railway Board", "An Act of Parliament only"],
+    "answer": "Notification in the Official Gazette",
+    "chapter": "Chapter II — Railway Administrations",
+    "explanation": "Section 3(1) provides that the Central Government may, for efficient administration of Government railways, by notification, constitute such railways into Zonal Railways."
+  },
+  {
+    "question": "The general superintendence and control of a Zonal Railway vests in:",
+    "options": ["The Railway Board", "The Central Government", "The General Manager", "The Divisional Railway Manager"],
+    "answer": "The General Manager",
+    "chapter": "Chapter II — Railway Administrations",
+    "explanation": "Section 4(2) provides that the general superintendence and control of a Zonal Railway shall vest in the General Manager."
+  },
+  {
+    "question": "Chapter IIA on 'Rail Land Development Authority' was inserted into the Railways Act 1989 by:",
+    "options": ["Railways (Amendment) Act, 2008", "Railways (Amendment) Act, 2003", "Railways (Amendment) Act, 2005", "Railways (Amendment) Act, 2025"],
+    "answer": "Railways (Amendment) Act, 2005",
+    "chapter": "Chapter IIA — Rail Land Development Authority",
+    "explanation": "Chapter IIA containing sections 4A to 4I on the RLDA was inserted by the Railways (Amendment) Act, 2005 (Act 47 of 2005), w.e.f. 30-8-2006."
+  },
+  {
+    "question": "The Chairman of the Rail Land Development Authority (RLDA) is, ex officio:",
+    "options": ["Chairman, Railway Board", "Member Engineering, Railway Board", "General Manager, Northern Railway", "Secretary, Ministry of Railways"],
+    "answer": "Member Engineering, Railway Board",
+    "chapter": "Chapter IIA — Rail Land Development Authority",
+    "explanation": "Section 4B(2) provides that the Member Engineering, Railway Board shall be the Chairman, ex officio, of the RLDA."
+  },
+  {
+    "question": "The RLDA consists of a Chairman, Vice-Chairman and how many other members?",
+    "options": ["Not more than three", "Not more than four", "Not more than five", "Not more than six"],
+    "answer": "Not more than four",
+    "chapter": "Chapter IIA — Rail Land Development Authority",
+    "explanation": "Section 4B(1) provides that the Authority shall consist of a Chairman, Vice-Chairman and not more than four other members."
+  },
+  {
+    "question": "The salaries and expenses of the RLDA are defrayed from:",
+    "options": ["Railway Revenue Fund", "Consolidated Fund of India", "Special Purpose Vehicle of Railways", "Ministry of Railways budget only"],
+    "answer": "Consolidated Fund of India",
+    "chapter": "Chapter IIA — Rail Land Development Authority",
+    "explanation": "Section 4H provides that the salaries, allowances and pensions payable to officers and employees of the RLDA shall be defrayed out of the Consolidated Fund of India."
+  },
+  {
+    "question": "The Commissioner of Railway Safety is deemed to be a public servant within the meaning of:",
+    "options": ["Section 2 of the Prevention of Corruption Act", "Section 21 of the Indian Penal Code", "Section 3 of the Railways Act", "Section 7 of the Prevention of Corruption Act"],
+    "answer": "Section 21 of the Indian Penal Code",
+    "chapter": "Chapter III — Commissioners of Railway Safety",
+    "explanation": "Section 8 of the Railways Act 1989 provides that the Commissioner shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code."
+  },
+  {
+    "question": "The annual report of the Commissioners of Railway Safety is prepared by:",
+    "options": ["Each Commissioner separately", "The Chief Commissioner of Railway Safety", "The Railway Board", "The Ministry of Railways"],
+    "answer": "The Chief Commissioner of Railway Safety",
+    "chapter": "Chapter III — Commissioners of Railway Safety",
+    "explanation": "Section 10 provides that the Chief Commissioner of Railway Safety shall prepare in each financial year an annual report giving a full account of the activities of the Commissioners."
+  },
+  {
+    "question": "Under Section 22, before a railway is opened for public carriage of passengers, all of the following are required in the Commissioner's report EXCEPT:",
+    "options": ["Careful inspection of the railway and rolling stock", "Moving and fixed dimensions have not been infringed", "Adequate commercial revenue potential of the route", "In his opinion the railway can be opened without danger to the public"],
+    "answer": "Adequate commercial revenue potential of the route",
+    "chapter": "Chapter V — Opening of Railways",
+    "explanation": "Section 22 requires the Commissioner's report to cover inspection, dimensions, structural compliance, and safety opinion — not commercial viability."
+  },
+  {
+    "question": "Under Section 24, after a traffic-suspending accident, the restored railway may be opened WITHOUT prior Commissioner inspection if:",
+    "options": ["The General Manager certifies safety", "The railway servant in charge certifies safety in writing AND notice is sent to Commissioner", "The Ministry of Railways gives approval", "The Divisional Railway Manager issues a safety certificate"],
+    "answer": "The railway servant in charge certifies safety in writing AND notice is sent to Commissioner",
+    "chapter": "Chapter V — Opening of Railways",
+    "explanation": "Section 24 permits opening without prior Commissioner inspection if: (a) the railway servant in charge certifies in writing that opening will not be attended with danger; and (b) a notice of opening is sent immediately to the Commissioner."
+  },
+  {
+    "question": "Under Section 33, the Railway Rates Tribunal consists of:",
+    "options": ["A Chairman only", "A Chairman and one other member", "A Chairman and two other members", "A Chairman and four other members"],
+    "answer": "A Chairman and two other members",
+    "chapter": "Chapter VI & VII — Rates & Tribunal",
+    "explanation": "Section 33(2) provides that the Tribunal shall consist of a Chairman and two other members to be appointed by the Central Government."
+  },
+  {
+    "question": "Who is qualified to be Chairman of the Railway Rates Tribunal?",
+    "options": ["Any serving IAS officer of Secretary rank", "A person who is or has been a Judge of the Supreme Court or a High Court", "The Chairman of the Railway Board", "A retired General Manager of a Zonal Railway"],
+    "answer": "A person who is or has been a Judge of the Supreme Court or a High Court",
+    "chapter": "Chapter VI & VII — Rates & Tribunal",
+    "explanation": "Section 33(3) provides that a person shall not be qualified for appointment as Chairman of the Tribunal unless he is, or has been, a Judge of the Supreme Court or of a High Court."
+  },
+  {
+    "question": "The decisions/orders of the Railway Rates Tribunal are:",
+    "options": ["Recommendatory only", "Subject to appeal before the High Court", "Final, by majority of members sitting", "Subject to approval by the Central Government"],
+    "answer": "Final, by majority of members sitting",
+    "chapter": "Chapter VI & VII — Rates & Tribunal",
+    "explanation": "Section 42 provides that the decisions or orders of the Tribunal shall be by a majority of the members sitting and shall be final."
+  },
+  {
+    "question": "Which of the following is NOT within the jurisdiction of the Railway Rates Tribunal?",
+    "options": ["Unreasonable freight rates between two stations", "Undue preference in carriage of goods", "Fixation of fares for carriage of passengers", "Unreasonable levying of other charges"],
+    "answer": "Fixation of fares for carriage of passengers",
+    "chapter": "Chapter VI & VII — Rates & Tribunal",
+    "explanation": "Section 37(c) explicitly excludes fixation of fares levied for carriage of passengers from the Tribunal's jurisdiction."
+  },
+  {
+    "question": "The definition of 'Tribunal' in Section 2(40) was substituted by:",
+    "options": ["Railways (Amendment) Act, 2008", "Railways (Amendment) Act, 2005", "Finance Act, 2017", "Railways (Amendment) Act, 2003"],
+    "answer": "Finance Act, 2017",
+    "chapter": "Chapter VI & VII — Rates & Tribunal",
+    "explanation": "Section 2(40) was substituted by the Finance Act, 2017 (Act 7 of 2017), w.e.f. 26-5-2017. Sections 34 and 35 of the Railways Act were also omitted by the same Act."
+  },
+  {
+    "question": "Every railway administration shall display timetables and fare lists at stations in:",
+    "options": ["Hindi and English only", "Hindi, English and the regional language of the area", "English only", "Hindi only"],
+    "answer": "Hindi, English and the regional language of the area",
+    "chapter": "Chapter VIII — Carriage of Passengers",
+    "explanation": "Section 49(1) requires railway administrations to cause timetables and fare lists to be pasted in Hindi and English and also in the regional language commonly in use in the area."
+  },
+  {
+    "question": "Under Section 51, if a passenger travels in a lower class due to non-availability of his ticketed class, he is entitled to:",
+    "options": ["Full refund of ticket", "Refund of the difference between fare paid and fare for the class actually travelled", "No refund", "Compensation equal to double the difference"],
+    "answer": "Refund of the difference between fare paid and fare for the class actually travelled",
+    "chapter": "Chapter VIII — Carriage of Passengers",
+    "explanation": "Section 51(2) provides that if no accommodation is available in the ticketed class and the holder travels in a lower class, he shall be entitled to a refund of the difference between the fare paid and the fare payable for the class actually travelled."
+  },
+  {
+    "question": "Under Section 53, which ticket transfer IS permitted?",
+    "options": ["Transfer to a family member", "Mutual transfer of a seat or berth by passengers travelling by the same train", "Transfer to a person of the same gender", "Transfer with permission of Ticket Checking staff"],
+    "answer": "Mutual transfer of a seat or berth by passengers travelling by the same train",
+    "chapter": "Chapter VIII — Carriage of Passengers",
+    "explanation": "Section 53 provides that nothing shall prevent mutual transfer of a seat or berth by passengers travelling by the same train."
+  },
+  {
+    "question": "Under Section 58, every railway administration shall in every passenger train earmark for the exclusive use of females:",
+    "options": ["Minimum two compartments", "One compartment or such number of berths/seats as the railway administration thinks fit", "25% of total berths", "At least one AC coach"],
+    "answer": "One compartment or such number of berths/seats as the railway administration thinks fit",
+    "chapter": "Chapter VIII — Carriage of Passengers",
+    "explanation": "Section 58 requires earmarking for the exclusive use of females one compartment or such number of berths or seats as the railway administration may think fit."
+  },
+  {
+    "question": "A forwarding note under Section 64 shall be executed by:",
+    "options": ["The consignee before taking delivery", "Every person entrusting goods to a railway administration for carriage", "The railway servant at the destination station", "Both the consignor and consignee jointly"],
+    "answer": "Every person entrusting goods to a railway administration for carriage",
+    "chapter": "Chapter IX — Carriage of Goods",
+    "explanation": "Section 64(1) requires that every person entrusting any goods to a railway administration for carriage shall execute a forwarding note in such form as may be specified by the Central Government."
+  },
+  {
+    "question": "A railway receipt under Section 65 is prima facie evidence of:",
+    "options": ["The quality of goods", "The weight and number of packages stated therein", "The market value of goods", "Both weight and value of goods"],
+    "answer": "The weight and number of packages stated therein",
+    "chapter": "Chapter IX — Carriage of Goods",
+    "explanation": "Section 65(2) provides that a railway receipt shall be prima facie evidence of the weight and the number of packages stated therein."
+  },
+  {
+    "question": "Section 70 prohibits a railway administration from making or giving:",
+    "options": ["Any discount on freight for bulk consignments", "Any undue or unreasonable preference or advantage to any particular person or description of traffic in carriage of goods", "Any station-to-station special rates", "Any refund of freight charges"],
+    "answer": "Any undue or unreasonable preference or advantage to any particular person or description of traffic in carriage of goods",
+    "chapter": "Chapter IX — Carriage of Goods",
+    "explanation": "Section 70 is the anti-discrimination provision — prohibiting undue or unreasonable preference in the carriage of goods."
+  },
+  {
+    "question": "Under Section 73, the punitive charges for overloading beyond permissible capacity are recoverable by the railway administration:",
+    "options": ["After delivery of goods", "Before delivery of goods", "Within 30 days of delivery", "Through court only"],
+    "answer": "Before delivery of goods",
+    "chapter": "Chapter IX — Carriage of Goods",
+    "explanation": "Section 73 provides that charges by way of penalty shall be recovered at prescribed rates before the delivery of the goods."
+  },
+  {
+    "question": "Under Section 76, the railway administration shall deliver the consignment on:",
+    "options": ["Payment of full freight", "Surrender of the railway receipt", "Production of identity proof by the consignee", "Written request from the consignor"],
+    "answer": "Surrender of the railway receipt",
+    "chapter": "Chapter IX — Carriage of Goods",
+    "explanation": "Section 76 provides that the railway administration shall deliver the consignment on the surrender of the railway receipt."
+  },
+  {
+    "question": "For public auction of non-perishable detained consignments under Section 83, the railway administration shall give notice of not less than:",
+    "options": ["3 days", "7 days in one or more local newspapers", "14 days in the Official Gazette", "21 days"],
+    "answer": "7 days in one or more local newspapers",
+    "chapter": "Chapter IX — Carriage of Goods",
+    "explanation": "Section 83(3) requires a notice of not less than seven days of the public auction in one or more local newspapers."
+  },
+  {
+    "question": "Goods at a notified station not removed within how many days after termination of transit may be sold by public auction?",
+    "options": ["3 days", "7 days", "14 days", "30 days"],
+    "answer": "7 days",
+    "chapter": "Chapter X — Special Provisions for Notified Stations",
+    "explanation": "Section 90(1) provides that goods at a notified station not removed within 7 days after the termination of transit may be sold by public auction."
+  },
+  {
+    "question": "A 'notified station' is declared by:",
+    "options": ["The General Manager by notification", "The Central Government by notification", "The State Government by notification", "The Commissioner of Railway Safety"],
+    "answer": "The Central Government by notification",
+    "chapter": "Chapter X — Special Provisions for Notified Stations",
+    "explanation": "Section 89(1) provides that the Central Government may, if satisfied that goods should be removed without delay from a railway station, declare it to be a notified station."
+  },
+  {
+    "question": "The initial period for which a notified station notification remains in force shall not exceed:",
+    "options": ["Three months", "Six months", "One year", "Two years"],
+    "answer": "Six months",
+    "chapter": "Chapter X — Special Provisions for Notified Stations",
+    "explanation": "The second proviso to Section 89(1) provides that the period specified shall not exceed six months in the first instance, extendable by up to six months on each occasion."
+  },
+  {
+    "question": "Under Section 93, even where an excepted cause is proved, the railway administration is still liable if it fails to prove it used:",
+    "options": ["Prior intimation to consignee", "Reasonable foresight and care in the carriage of the goods", "Adequate insurance coverage", "Standard operating procedures"],
+    "answer": "Reasonable foresight and care in the carriage of the goods",
+    "chapter": "Chapter XI — Responsibilities as Carriers",
+    "explanation": "The proviso to Section 93 requires the railway administration to prove not just the excepted cause, but also that it used reasonable foresight and care in the carriage of the goods."
+  },
+  {
+    "question": "Under Section 97, for goods at owner's risk rate, the railway administration is not responsible for loss UNLESS:",
+    "options": ["The loss is total", "Negligence or misconduct on the part of the railway administration or its servants is proved", "The consignor has declared the value", "The destination station is in a different zone"],
+    "answer": "Negligence or misconduct on the part of the railway administration or its servants is proved",
+    "chapter": "Chapter XI — Responsibilities as Carriers",
+    "explanation": "Section 97 provides that for goods at owner's risk rate, the railway administration shall not be responsible except upon proof of negligence or misconduct on its part or on the part of any of its servants."
+  },
+  {
+    "question": "After termination of transit, the railway administration remains responsible as a bailee for goods for:",
+    "options": ["Three days", "Seven days", "Fifteen days", "Thirty days"],
+    "answer": "Seven days",
+    "chapter": "Chapter XI — Responsibilities as Carriers",
+    "explanation": "Section 99(1) provides that the railway administration shall be responsible as a bailee under the Indian Contract Act for the loss, destruction, damage, deterioration or non-delivery of any consignment up to a period of seven days after the termination of transit."
+  },
+  {
+    "question": "The time limit for serving notice of claim for compensation for goods loss/damage is:",
+    "options": ["Three months from date of entrustment", "Six months from date of entrustment", "One year from date of entrustment", "Ninety days from date of delivery"],
+    "answer": "Six months from date of entrustment",
+    "chapter": "Chapter XI — Responsibilities as Carriers",
+    "explanation": "Section 106(1) provides that a person shall not be entitled to claim compensation unless a notice thereof is served within six months from the date of entrustment of the goods."
+  },
+  {
+    "question": "Under Section 113, after a railway accident the stationmaster shall give notice WITHOUT DELAY to:",
+    "options": ["Only the Railway Board", "The District Magistrate and Superintendent of Police within whose jurisdiction the accident occurs", "Only the Commissioner of Railway Safety", "The State Government only"],
+    "answer": "The District Magistrate and Superintendent of Police within whose jurisdiction the accident occurs",
+    "chapter": "Chapter XII — Accidents",
+    "explanation": "Section 113(1) requires the stationmaster to give notice without delay to the District Magistrate and Superintendent of Police, along with the police station officer and other appointed authorities."
+  },
+  {
+    "question": "Under Section 115, if the Commissioner is not able to hold an inquiry, the inquiry shall be conducted by:",
+    "options": ["The District Magistrate", "The railway administration within whose jurisdiction the accident occurs", "The State Government", "A Special Committee constituted by the Central Government"],
+    "answer": "The railway administration within whose jurisdiction the accident occurs",
+    "chapter": "Chapter XII — Accidents",
+    "explanation": "Section 115 provides that where the Commissioner does not hold inquiry or informs he is unable to, the railway administration within whose jurisdiction the accident occurs shall cause an inquiry to be made."
+  },
+  {
+    "question": "A statement made during an inquiry before the Commissioner under Section 117 shall NOT be used against the person EXCEPT:",
+    "options": ["In compensation claims by the victim's family", "In a prosecution for giving false evidence by such statement", "In any departmental inquiry against the railway servant concerned", "In claims before the Railway Claims Tribunal"],
+    "answer": "In a prosecution for giving false evidence by such statement",
+    "chapter": "Chapter XII — Accidents",
+    "explanation": "Section 117 provides that no statement made before the Commissioner shall be used against the person except in a prosecution for giving false evidence by such statement."
+  },
+  {
+    "question": "Under Section 123, 'untoward incident' includes all EXCEPT:",
+    "options": ["Terrorist act against a passenger", "Robbery committed against a passenger", "Accidental falling of a passenger from the train", "Derailment of a goods train with no passengers"],
+    "answer": "Derailment of a goods train with no passengers",
+    "chapter": "Chapter XIII — Liability for Passengers",
+    "explanation": "Section 123(c) defines 'untoward incident' as: (a) terrorist act/act of violence against a passenger; (b) robbery or dacoity against a passenger; (c) accidental falling of a passenger from the train. A goods train derailment without passengers is not an untoward incident."
+  },
+  {
+    "question": "The liability under Section 124 for death or injury in a railway accident is on what basis?",
+    "options": ["Fault basis — negligence must be proved", "No-fault basis — liability regardless of negligence", "Contributory negligence basis", "Strict liability only for derailments"],
+    "answer": "No-fault basis — liability regardless of negligence",
+    "chapter": "Chapter XIII — Liability for Passengers",
+    "explanation": "Section 124 clearly establishes no-fault liability — whether or not there has been any wrongful act, neglect or default on the part of the railway administration."
+  },
+  {
+    "question": "Section 124A on compensation for untoward incidents was inserted by:",
+    "options": ["Railways (Amendment) Act, 1994", "Railways (Amendment) Act, 2003 (Act 56 of 2003)", "Railways (Amendment) Act, 2008", "Railways (Amendment) Act, 2005"],
+    "answer": "Railways (Amendment) Act, 2003 (Act 56 of 2003)",
+    "chapter": "Chapter XIII — Liability for Passengers",
+    "explanation": "Section 124A on compensation on account of untoward incidents was inserted by the Railways (Amendment) Act, 2003 (Act 56 of 2003)."
+  },
+  {
+    "question": "Under Section 124A, a passenger who has fallen from a train while travelling shall be deemed to have:",
+    "options": ["Been involved in a railway accident under section 124", "Suffered injury for the purpose of claiming untoward incident compensation", "No claim since it is not a railway accident", "A claim only if the fall was due to overcrowding"],
+    "answer": "Suffered injury for the purpose of claiming untoward incident compensation",
+    "chapter": "Chapter XIII — Liability for Passengers",
+    "explanation": "The Explanation to Section 124A specifically provides that a passenger who has fallen from a train while travelling shall be deemed to have suffered injury for compensation under that section."
+  },
+  {
+    "question": "Under Section 126, where a person desires interim relief pending determination by the Claims Tribunal, the application shall be made to:",
+    "options": ["The Claims Tribunal itself", "The railway administration along with a copy of the Section 125 application", "The District Court", "The Commissioner of Railway Safety"],
+    "answer": "The railway administration along with a copy of the Section 125 application",
+    "chapter": "Chapter XIII — Liability for Passengers",
+    "explanation": "Section 126(1) provides that a person desiring interim relief may apply to the railway administration for payment of interim relief along with a copy of the application made under Section 125."
+  },
+  {
+    "question": "The maximum weekly working hours for a 'continuous' railway servant under Section 132 is:",
+    "options": ["45 hours per week", "54 hours per week on average over two-weekly period", "60 hours per week", "75 hours per week"],
+    "answer": "54 hours per week on average over two-weekly period",
+    "chapter": "Chapter XIV — Hours of Work",
+    "explanation": "Section 132(2) provides that a railway servant whose employment is continuous shall not be employed for more than fifty-four hours a week on an average in a two-weekly period of fourteen days."
+  },
+  {
+    "question": "The maximum weekly working hours for an 'essentially intermittent' railway servant is:",
+    "options": ["45 hours per week", "54 hours per week", "60 hours per week", "75 hours per week"],
+    "answer": "75 hours per week",
+    "chapter": "Chapter XIV — Hours of Work",
+    "explanation": "Section 132(1) provides that a railway servant whose employment is essentially intermittent shall not be employed for more than seventy-five hours in any week."
+  },
+  {
+    "question": "The maximum weekly working hours for an 'intensive' railway servant is:",
+    "options": ["45 hours per week on average in two-weekly period", "54 hours per week", "60 hours per week", "75 hours per week"],
+    "answer": "45 hours per week on average in two-weekly period",
+    "chapter": "Chapter XIV — Hours of Work",
+    "explanation": "Section 132(3) provides that a railway servant whose employment is intensive shall not be employed for more than forty-five hours a week on an average in a two-weekly period of fourteen days."
+  },
+  {
+    "question": "Under Section 133, locomotive and traffic running staff shall be granted each month a rest of at least:",
+    "options": ["Two periods of not less than 30 consecutive hours each", "Four periods of 30 consecutive hours OR five periods of 22 consecutive hours each, including a full night", "Three periods of not less than 24 consecutive hours each", "Six periods of not less than 12 consecutive hours each"],
+    "answer": "Four periods of 30 consecutive hours OR five periods of 22 consecutive hours each, including a full night",
+    "chapter": "Chapter XIV — Hours of Work",
+    "explanation": "Section 133(2)(i) provides locomotive or traffic running staff shall be granted each month a rest of at least four periods of not less than thirty consecutive hours each or at least five periods of not less than twenty-two consecutive hours each, including a full night."
+  },
+  {
+    "question": "When overtime is required under Section 132(4) due to exceptional pressure of work, the overtime payment shall be at not less than:",
+    "options": ["Equal to ordinary rate of pay", "One and a half times the ordinary rate of pay", "Two times the ordinary rate of pay", "Three times the ordinary rate of pay"],
+    "answer": "Two times the ordinary rate of pay",
+    "chapter": "Chapter XIV — Hours of Work",
+    "explanation": "The proviso to Section 132(4) provides that overtime shall be paid at not less than two times the ordinary rate of pay for the excess hours."
+  },
+  {
+    "question": "Under Section 137, the minimum punishment for fraudulently travelling without a ticket (in the absence of special reasons) is:",
+    "options": ["Imprisonment for 3 months", "Fine of Rs. 200", "Fine of Rs. 500", "Fine of Rs. 1,000"],
+    "answer": "Fine of Rs. 500",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 137 provides that in the absence of special and adequate reasons to the contrary, the punishment shall not be less than a fine of five hundred rupees."
+  },
+  {
+    "question": "Under Section 138, when a passenger fails to pay excess charge on demand and refuses to give name/address, a railway servant may:",
+    "options": ["Arrest him without warrant", "Apply to a Metropolitan or Judicial Magistrate for recovery", "Detain him at the next station", "Contact the nearest police station"],
+    "answer": "Apply to a Metropolitan or Judicial Magistrate for recovery",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 138(4) provides that if a passenger fails or refuses to pay, any railway servant authorised may apply to any Metropolitan Magistrate or Judicial Magistrate of the first or second class for recovery of the sum payable as if it were a fine."
+  },
+  {
+    "question": "Under Section 139, when may a woman or child (unaccompanied by a male passenger) be removed from a higher class carriage?",
+    "options": ["At any station", "Only at the originating station, or at a junction/terminal/district headquarters station, and only during the day", "Only at the destination station", "At any junction station at any time"],
+    "answer": "Only at the originating station, or at a junction/terminal/district headquarters station, and only during the day",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "The second proviso to Section 139 protects women and children — they shall not be removed except at the station of commencement of journey or at a junction, terminal station, or station at district headquarters, and only during the day."
+  },
+  {
+    "question": "Under Section 141, the minimum punishment for FIRST offence of pulling alarm chain without reasonable cause is:",
+    "options": ["Imprisonment for 1 month", "Fine of Rs. 200", "Fine of Rs. 500", "Imprisonment for 3 months"],
+    "answer": "Fine of Rs. 500",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "The proviso to Section 141 states that for first offence of misusing alarm chain without reasonable cause, punishment shall not be less than a fine of Rs. 500."
+  },
+  {
+    "question": "Under Section 141, the minimum punishment for SECOND or subsequent offence of pulling alarm chain without reasonable cause is:",
+    "options": ["Fine of Rs. 1,000", "Imprisonment for 1 month", "Imprisonment for 3 months", "Imprisonment for 6 months"],
+    "answer": "Imprisonment for 3 months",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "The proviso to Section 141(b) provides that for second or subsequent conviction for misusing alarm chain without reasonable cause, punishment shall not be less than imprisonment for three months."
+  },
+  {
+    "question": "The minimum fine for the offence of touting (ticket procuring/supplying business) under Section 143 is:",
+    "options": ["Rs. 500", "Rs. 1,000", "Rs. 5,000", "Rs. 10,000"],
+    "answer": "Rs. 5,000",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "The proviso to Section 143(1) provides that in the absence of special reasons, the punishment for touting shall not be less than imprisonment for one month or a fine of Rs. 5,000."
+  },
+  {
+    "question": "Which sections under Chapter XV were decriminalised (imprisonment removed) by the Jan Vishwas Act, 2023?",
+    "options": ["Sections 137, 138 and 141", "Sections 144, 145, 147, 163, 166, 167 and 176", "Sections 150, 151 and 152", "Sections 172, 173 and 174"],
+    "answer": "Sections 144, 145, 147, 163, 166, 167 and 176",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "The Jan Vishwas (Amendment of Provisions) Act, 2023 (Act 18 of 2023) decriminalised several minor offences under the Railways Act — removing imprisonment for sections 144, 145, 147, 163, 166, 167, and 176."
+  },
+  {
+    "question": "Under Section 150, if malicious endangerment of railway safety is done with intent to cause death and death results, the punishment is:",
+    "options": ["Rigorous imprisonment for not less than 7 years", "Rigorous imprisonment for 10 years", "Imprisonment for life", "Death or imprisonment for life"],
+    "answer": "Death or imprisonment for life",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 150(2) provides that if the unlawful act is done with intent to cause death and death results, or with knowledge that the act must in all probability cause death, the punishment is death or imprisonment for life."
+  },
+  {
+    "question": "Under Section 150, the minimum rigorous imprisonment for SECOND or subsequent conviction of maliciously endangering railway safety is:",
+    "options": ["Not less than 1 year", "Not less than 3 years", "Not less than 5 years", "Not less than 7 years"],
+    "answer": "Not less than 7 years",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "The proviso to Section 150(1) provides minimum rigorous imprisonment of: (a) three years for first offence; and (b) seven years for second or subsequent offence."
+  },
+  {
+    "question": "Under Section 153, endangering railway safety by any WILFUL act or omission is punishable with imprisonment up to:",
+    "options": ["One year", "Two years", "Five years", "Ten years"],
+    "answer": "Five years",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 153 provides that wilful endangering of railway safety or obstruction of rolling stock is punishable with imprisonment up to five years."
+  },
+  {
+    "question": "Under Section 154, endangering railway safety by a RASH OR NEGLIGENT act is punishable with:",
+    "options": ["Imprisonment up to 5 years", "Imprisonment up to 2 years or fine or both", "Imprisonment up to 1 year or fine or both", "Fine only"],
+    "answer": "Imprisonment up to 1 year or fine or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 154 distinguishes rash/negligent endangerment from wilful acts — punishable with imprisonment up to one year, or fine, or both."
+  },
+  {
+    "question": "Under Section 161, 'negligence' in crossing an unmanned level crossing specifically means:",
+    "options": ["Crossing at night without lights", "Crossing without stopping to observe for approaching rolling stock, OR crossing even while approaching rolling stock is in sight", "Crossing at speed exceeding 20 km/h", "Crossing without honking twice"],
+    "answer": "Crossing without stopping to observe for approaching rolling stock, OR crossing even while approaching rolling stock is in sight",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "The Explanation to Section 161 defines negligence as: (a) crossing without stopping to observe whether any approaching rolling stock is in sight; or (b) crossing even while an approaching rolling stock is in sight."
+  },
+  {
+    "question": "Under Section 172, when a railway servant on duty is intoxicated AND it is likely to endanger safety, the punishment is:",
+    "options": ["Fine up to Rs. 500 only", "Imprisonment up to 1 year, or fine, or both", "Immediate dismissal from service", "Imprisonment up to 2 years and fine"],
+    "answer": "Imprisonment up to 1 year, or fine, or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 172 provides two tiers: (a) mere intoxication on duty — fine up to Rs. 500; (b) when intoxication is likely to endanger safety — imprisonment up to one year, or fine, or both."
+  },
+  {
+    "question": "Under Section 174, obstructing a train by 'rail roko agitation or bandh' is punishable with:",
+    "options": ["Fine only, up to Rs. 1,000", "Imprisonment up to 2 years or fine up to Rs. 2,000 or both", "Imprisonment up to 5 years", "Imprisonment for 6 months and fine"],
+    "answer": "Imprisonment up to 2 years or fine up to Rs. 2,000 or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 174 specifically addresses rail roko, bandh and similar agitations — punishable with imprisonment up to two years or fine up to Rs. 2,000 or both."
+  },
+  {
+    "question": "Under Section 175, a railway servant who endangers safety by disobeying any rule or by rash/negligent act is punishable with imprisonment up to:",
+    "options": ["One year", "Two years", "Three years", "Five years"],
+    "answer": "Two years",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 175 provides that a railway servant who while on duty endangers safety by disobeying any rule/instruction or by rash/negligent act shall be punishable with imprisonment up to two years or fine up to Rs. 1,000 or both."
+  },
+  {
+    "question": "Under Section 179, persons who commit listed offences may be arrested WITHOUT warrant by:",
+    "options": ["Any railway servant of any rank", "Any railway servant OR a police officer not below the rank of a head constable", "Only the Railway Protection Force", "Only a Station Superintendent or above"],
+    "answer": "Any railway servant OR a police officer not below the rank of a head constable",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 179(1) provides that for listed offences, arrest without warrant may be effected by any railway servant or police officer not below the rank of a head constable."
+  },
+  {
+    "question": "A person arrested under Section 179 shall be produced before the nearest Magistrate within:",
+    "options": ["12 hours", "24 hours (excluding journey time)", "48 hours", "72 hours"],
+    "answer": "24 hours (excluding journey time)",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 179(3) provides that a person arrested shall be produced before the nearest Magistrate within twenty-four hours of such arrest, excluding the time necessary for the journey."
+  },
+  {
+    "question": "Sections 180A to 180G (officer authorised inquiry powers) were inserted by:",
+    "options": ["Railways (Amendment) Act, 2003 (Act 56 of 2003)", "Railways (Second Amendment) Act, 2003 (Act 51 of 2003)", "Railways (Amendment) Act, 2005", "Jan Vishwas Act, 2023"],
+    "answer": "Railways (Second Amendment) Act, 2003 (Act 51 of 2003)",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Sections 180A to 180G were inserted by the Railways (Second Amendment) Act, 2003 (Act 51 of 2003), w.e.f. 1-7-2004."
+  },
+  {
+    "question": "Under Section 181, no court inferior to which court shall try an offence under the Railways Act?",
+    "options": ["District Court", "Metropolitan Magistrate or Judicial Magistrate of the first class", "Chief Judicial Magistrate", "Sessions Court"],
+    "answer": "Metropolitan Magistrate or Judicial Magistrate of the first class",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 181 provides that notwithstanding anything in the CrPC, no court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try an offence under the Act."
+  },
+  {
+    "question": "Under Section 186, the protection of good faith applies to acts done:",
+    "options": ["Only by gazetted officers", "In pursuance of this Act or any rules or orders made thereunder", "Only by the General Manager or above", "During declared emergencies only"],
+    "answer": "In pursuance of this Act or any rules or orders made thereunder",
+    "chapter": "Chapter XVI — Miscellaneous",
+    "explanation": "Section 186 provides that no legal proceeding shall lie for anything which is in good faith done or intended to be done in pursuance of this Act or any rules or orders made thereunder."
+  },
+  {
+    "question": "Under Section 188, railway servants are deemed to be public servants for the purposes of:",
+    "options": ["The entire Indian Penal Code", "Chapter IX and section 409 of the Indian Penal Code", "The Prevention of Corruption Act", "The Official Secrets Act"],
+    "answer": "Chapter IX and section 409 of the Indian Penal Code",
+    "chapter": "Chapter XVI — Miscellaneous",
+    "explanation": "Section 188(1) provides that any railway servant not already a public servant under section 21 IPC shall be deemed to be a public servant for the purposes of Chapter IX and section 409 of the IPC."
+  },
+  {
+    "question": "Chapter IVA on 'Land Acquisition for a Special Railway Project' was inserted by which amendment, w.e.f. which date?",
+    "options": ["Railways (Amendment) Act, 2005, w.e.f. 30-8-2006", "Railways (Amendment) Act, 2008, w.e.f. 31-1-2008", "Railways (Amendment) Act, 2003, w.e.f. 1-7-2004", "Railways (Amendment) Act, 2025, w.e.f. 20-8-2025"],
+    "answer": "Railways (Amendment) Act, 2008, w.e.f. 31-1-2008",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Chapter IVA containing sections 20A to 20P was inserted by the Railways (Amendment) Act, 2008 (Act 11 of 2008) and is deemed to have come into force on 31st January 2008."
+  },
+  {
+    "question": "Under Section 20D, objections to land acquisition for a special railway project may be filed within:",
+    "options": ["15 days", "30 days from publication of §20A notification", "60 days", "90 days"],
+    "answer": "30 days from publication of §20A notification",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20D(1) provides that any person interested in the land may, within a period of thirty days from the date of publication of the notification under section 20A, object to the acquisition."
+  },
+  {
+    "question": "After publication of the §20E declaration of acquisition, land vests in:",
+    "options": ["The Railway Administration concerned", "The State Government", "The Central Government free from all encumbrances", "The competent authority as a trust"],
+    "answer": "The Central Government free from all encumbrances",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20E(2) provides that on the publication of the declaration, the land shall vest absolutely in the Central Government free from all encumbrances."
+  },
+  {
+    "question": "If no §20E declaration is published within what period after the §20A notification, the notification ceases to have effect?",
+    "options": ["Six months", "One year", "Two years", "Three years"],
+    "answer": "One year",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20E(3) provides that if no declaration is published within a period of one year from the date of publication of the §20A notification, that notification shall cease to have effect."
+  },
+  {
+    "question": "Under Section 20F(9), the solatium on market value for compulsory acquisition under Chapter IVA is:",
+    "options": ["30%", "45%", "60%", "100%"],
+    "answer": "60%",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20F(9) provides that in every case, a sum of sixty per centum on the market value shall be awarded, in consideration of the compulsory nature of the acquisition."
+  },
+  {
+    "question": "Under Section 20H, the interest rate awarded on excess arbitration award over the competent authority's award is:",
+    "options": ["6% per annum", "9% per annum", "12% per annum", "18% per annum"],
+    "answer": "9% per annum",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20H(5) provides that where the arbitrator's amount exceeds the competent authority's determination, the arbitrator may award interest at nine per cent per annum from the date of taking possession till actual deposit."
+  },
+  {
+    "question": "Under Section 20I, the owner in possession of acquired land must surrender it within how many days of notice?",
+    "options": ["30 days", "45 days", "60 days", "90 days"],
+    "answer": "60 days",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20I(1) provides that the owner or person in possession must surrender or deliver possession within a period of sixty days of the service of the notice."
+  },
+  {
+    "question": "If acquired land under Chapter IVA remains unutilised for how many years, it reverts to the Central Government?",
+    "options": ["Three years", "Five years", "Seven years", "Ten years"],
+    "answer": "Five years",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20L(2) provides that when any land acquired under this Act remains unutilised for a period of five years from the date of taking over possession, it shall return to the Central Government by reversion."
+  },
+  {
+    "question": "Under Section 20M, what percentage of profit is shared with original landowners when acquired land is transferred at a higher consideration?",
+    "options": ["50%", "60%", "80%", "100%"],
+    "answer": "80%",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20M provides that 80% of the difference in the acquisition cost and the consideration received shall be shared amongst the persons from whom the lands were acquired or their heirs."
+  },
+  {
+    "question": "Section 20N explicitly states that which Act shall NOT apply to acquisitions under Chapter IVA?",
+    "options": ["Transfer of Property Act, 1882", "Land Acquisition Act, 1894", "Registration Act, 1908", "Arbitration and Conciliation Act, 1996"],
+    "answer": "Land Acquisition Act, 1894",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20N explicitly provides that nothing in the Land Acquisition Act, 1894 shall apply to an acquisition under Chapter IVA."
+  },
+  {
+    "question": "The Railways (Amendment) Act, 2008 received Presidential assent on 28th March 2008 but is deemed to have come into force on:",
+    "options": ["28th March 2008", "1st April 2008", "31st January 2008", "1st January 2008"],
+    "answer": "31st January 2008",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 1(2) of the Railways (Amendment) Act, 2008 provides that it shall be deemed to have come into force on the 31st day of January, 2008 — a retrospective operation."
+  },
+  {
+    "question": "A declaration under Section 20E(1) for acquisition of land for a special railway project shall:",
+    "options": ["Be subject to judicial review by High Courts", "Not be called in question in any court or by any other authority", "Be appealable before the Railway Rates Tribunal", "Require approval of the State Government concerned"],
+    "answer": "Not be called in question in any court or by any other authority",
+    "chapter": "Chapter IVA — Land Acquisition",
+    "explanation": "Section 20E(4) provides that a declaration made by the Central Government shall not be called in question in any court or by any other authority — making it a final and non-justiciable declaration."
+  },
+  {
+    "question": "The Railways Act 1989 has been amended how many times as on 12th August 2025?",
+    "options": ["Five times", "Six times", "Seven times", "Eight times"],
+    "answer": "Eight times",
+    "chapter": "Chapter I — Preliminary",
+    "explanation": "As per IndiaCode (as on 12th August 2025), there are 8 amending acts: 1994, 2003 (Second Amendment), 2003 (Amendment), 2005, 2008, Finance Act 2017, Jan Vishwas Act 2023, and 2025."
+  },
+  {
+    "question": "Under Section 103, when the value of a consignment is NOT declared, the liability of the railway administration is:",
+    "options": ["Unlimited — full market value", "Limited to an amount calculated with reference to the weight of the consignment as prescribed", "Limited to Rs. 1,000 per consignment", "Determined solely by the Claims Tribunal"],
+    "answer": "Limited to an amount calculated with reference to the weight of the consignment as prescribed",
+    "chapter": "Chapter XI — Responsibilities as Carriers",
+    "explanation": "Section 103(1) provides that when the value is not declared, the liability shall in no case exceed such amount calculated with reference to the weight as may be prescribed."
+  },
+  {
+    "question": "Under Section 100, a railway administration is NOT responsible for loss of hand luggage UNLESS:",
+    "options": ["The luggage weighs more than prescribed limit", "Loss was due to negligence or misconduct of railway servants", "The passenger holds a first class ticket", "The luggage was insured"],
+    "answer": "Loss was due to negligence or misconduct of railway servants",
+    "chapter": "Chapter XI — Responsibilities as Carriers",
+    "explanation": "Section 100 provides that for luggage carried by the passenger in his charge, the railway administration is not responsible unless it is proved that the loss was due to negligence or misconduct on its part or on the part of any of its servants."
+  },
+  {
+    "question": "Under Section 93, the railway administration is NOT responsible for loss of goods arising from 'natural deterioration or wastage in bulk or weight due to inherent defect, quality or vice of the goods'. This is known as what exception?",
+    "options": ["Act of God", "Latent defect exception", "Inherent defect exception", "Force majeure exception"],
+    "answer": "Inherent defect exception",
+    "chapter": "Chapter XI — Responsibilities as Carriers",
+    "explanation": "Section 93(g) lists 'natural deterioration or wastage in bulk or weight due to inherent defect, quality or vice of the goods' as one of the excepted causes — the inherent defect exception."
+  },
+  {
+    "question": "Under Section 140, the bond for good behaviour for habitual ticketless travel offenders shall not exceed:",
+    "options": ["One year", "Two years", "Three years", "Five years"],
+    "answer": "Three years",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 140(1) provides that the court may order the convicted person to execute a bond for such period not exceeding three years as it deems fit."
+  },
+  {
+    "question": "Under Section 167, smoking in a railway compartment (when objected to by another passenger) after the Jan Vishwas Act 2023 is punishable with:",
+    "options": ["Imprisonment up to 6 months", "Fine not exceeding Rs. 500", "Fine not exceeding Rs. 100", "Removal from the train only"],
+    "answer": "Fine not exceeding Rs. 100",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 167(3) provides a fine up to Rs. 100. The Jan Vishwas Act, 2023 retained the fine but removed any imprisonment component for smoking."
+  },
+  {
+    "question": "Under Section 176, a railway servant who unnecessarily keeps a level crossing closed against the public is punishable with fine up to:",
+    "options": ["Rs. 50", "Rs. 100", "Rs. 500", "Rs. 1,000"],
+    "answer": "Rs. 100",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 176 provides that a railway servant who unnecessarily allows rolling stock to stand across a public road crossing or keeps a level crossing closed against the public shall be punishable with fine up to Rs. 100."
+  },
+  {
+    "question": "Under Section 156, a passenger who persists in travelling on the roof of a carriage after being warned by a railway servant is punishable with:",
+    "options": ["Fine only, up to Rs. 100", "Imprisonment up to 3 months or fine up to Rs. 500 or both", "Imprisonment up to 6 months and fine", "Removal from railway only — no criminal penalty"],
+    "answer": "Imprisonment up to 3 months or fine up to Rs. 500 or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 156 provides that a passenger or other person who after being warned persists in travelling on the roof, step or footboard of any carriage or engine shall be punishable with imprisonment up to three months, or fine up to Rs. 500, or both."
+  },
+  {
+    "question": "Under Section 162, a male person who enters a railway carriage reserved for females is punishable with:",
+    "options": ["Fine up to Rs. 100", "Fine up to Rs. 500 and forfeiture of pass/ticket", "Imprisonment up to 1 month", "Imprisonment up to 6 months and fine"],
+    "answer": "Fine up to Rs. 500 and forfeiture of pass/ticket",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 162 provides that a male person who enters a carriage reserved for females shall, in addition to being liable to forfeiture of his pass or ticket, be punishable with fine up to Rs. 500."
+  },
+  {
+    "question": "Under Section 160, breaking (not merely opening) a level crossing gate is punishable with imprisonment up to:",
+    "options": ["1 year", "2 years", "3 years", "5 years"],
+    "answer": "5 years",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 160(2) provides that breaking any gate or barrier at a level crossing closed to road traffic shall be punishable with imprisonment up to five years — more severe than merely opening it (three years)."
+  },
+  {
+    "question": "Under Section 173, a railway servant who abandons his duty before reaching destination without authority is punishable with:",
+    "options": ["Fine only, up to Rs. 1,000", "Imprisonment up to 2 years, or fine up to Rs. 1,000, or both", "Immediate dismissal and imprisonment up to 5 years", "Imprisonment for 6 months and fine"],
+    "answer": "Imprisonment up to 2 years, or fine up to Rs. 1,000, or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 173 provides that a railway servant who abandons his duty connected with running of a train before reaching destination without authority or without properly handing over to another authorised servant shall be punishable with imprisonment up to two years or fine up to Rs. 1,000 or both."
+  },
+  {
+    "question": "Under Section 178, a railway servant who makes a false report in a claims inquiry is punishable with:",
+    "options": ["Fine only, up to Rs. 500", "Imprisonment up to 1 year, or fine, or both", "Imprisonment up to 2 years, or fine up to Rs. 1,000, or both", "Dismissal from service only"],
+    "answer": "Imprisonment up to 2 years, or fine up to Rs. 1,000, or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 178 provides that a railway servant required to inquire into a compensation claim who makes a false report shall be punishable with imprisonment up to two years, or fine up to Rs. 1,000, or both."
+  },
+  {
+    "question": "Under Section 177, a railway servant who submits a false return is punishable with:",
+    "options": ["Fine only, up to Rs. 500", "Imprisonment up to 1 year, or fine up to Rs. 500, or both", "Imprisonment up to 2 years, or fine, or both", "Departmental action only"],
+    "answer": "Imprisonment up to 1 year, or fine up to Rs. 500, or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 177 provides that a railway servant who signs and furnishes a false return shall be punishable with imprisonment up to one year, or fine up to Rs. 500, or both."
+  },
+  {
+    "question": "Under Section 148, a person who makes a false statement in a compensation application under Section 125 is punishable with:",
+    "options": ["Fine only, up to Rs. 1,000", "Imprisonment up to 1 year, or fine, or both", "Imprisonment up to 3 years, or fine, or both", "Imprisonment up to 5 years"],
+    "answer": "Imprisonment up to 3 years, or fine, or both",
+    "chapter": "Chapter XV — Penalties and Offences",
+    "explanation": "Section 148 provides that any person who makes a false statement in a compensation application shall be punishable with imprisonment up to three years, or fine, or both."
+  },
+  {
+    "question": "Under Section 49, a copy of the timetable shall be kept at every station where tickets are issued, in the office of the:",
+    "options": ["Divisional Superintendent", "Station Master", "Ticket Checking Inspector", "Commercial Inspector"],
+    "answer": "Station Master",
+    "chapter": "Chapter VIII — Carriage of Passengers",
+    "explanation": "Section 49(2) provides that at every station where tickets are issued to passengers, a copy of the time table in force shall be kept in the office of the station master."
+  },
+  {
+    "question": "Under Section 57, the maximum number of passengers for each compartment shall be exhibited in Hindi, English, and:",
+    "options": ["Only Hindi and English", "One or more regional languages commonly in use in the areas served by the railway", "The official language of the State concerned", "All 22 scheduled languages"],
+    "answer": "One or more regional languages commonly in use in the areas served by the railway",
+    "chapter": "Chapter VIII — Carriage of Passengers",
+    "explanation": "Section 57 requires that the maximum number be exhibited in Hindi, English and also in one or more of the regional languages commonly in use in the areas served by the railway."
+  },
+  {
+    "question": "Under Section 55, a person who obtains permission to travel without a ticket shall ordinarily:",
+    "options": ["Travel free of charge", "Get a certificate from the authorised railway servant and subsequently pay the fare", "Pay double the ordinary fare", "Travel only up to the next junction station"],
+    "answer": "Get a certificate from the authorised railway servant and subsequently pay the fare",
+    "chapter": "Chapter VIII — Carriage of Passengers",
+    "explanation": "Section 55(2) provides that a person obtaining permission to travel without a ticket shall ordinarily get a certificate from the railway servant that he has been permitted to travel on condition that he subsequently pays the fare payable for the distance to be travelled."
+  }
+]
